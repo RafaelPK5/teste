@@ -1,28 +1,15 @@
-## Teste Lógico
+Me chamo Rafael, tenho 24 anos!
+Sempre corro atras de aprender o máximo que posso daquilo que me é passado para não cometer erros e se cometer saber como conserta-lo de forma eficiente e eficaz;
+Desde já agradeço a oportunidade;
 
-Este teste será utilizado para a avaliação técnica dos candidatos para vagas de desenvolvedores fullstack. Se você está vendo isso, parabéns você foi convidado a participar do nosso processo seletivo. Caso você tenha chegado aqui por acaso e queira uma chance ainda é possível participar do nosso processo seletivo enviando um email para rh@frentecorretora.com.br
+Aguardo retorno;
 
-Este teste é separado em teste para estágio e teste para desenvolvedor fulltime de todos os níveis, ou seja apenas estagiários realizaram um teste diferente, os outros níveis de júnior a sênior seram separados pelo desempenho nos teste.
+O código está na teste.js;
 
-## O que fazer para participar
+# Algoritmo FizzBuzz em JavaScript
 
-Crie um fork deste projeto e desenvolva sua solução em cima do seu fork. Use o README do seu repositório para nos contar a sua linha de pensamento ao resolver o teste, como você abordou os problemas encontrados quais foram suas prioridades no desenvolvimento e qualquer ação necessária para a execução do seu projeto.
+Primeiramente li bem os requisitos para solução e decidi interpretar como sempre faço, qunado fui para o código vi que tinha uma espécie de contagem então fui direto para o loop e decidi usar o for(apesar de que meus amigos que ja são da área terem me explicado que em grande escala o for acaba alocando muita memória);
 
-Lembre-se que isso é um teste técnico e como tal não existe uma única solução ótima, uma solução sub-ótima bem executada pode valer muito mais do que uma solução ótima mal executada.
+Depois disso vi que ja tinha a contagem agora só precisava mostrar os números corretamente substituindo cada um deles pelas palavras correspondentes ao calculo solicitado, usei a estrutura de decisão If e Else para mantê-las organizadas e mais compactas possíveis, pois admito que tenho um certo toque quanto a organização do código!
 
-## Crítérios de avaliação
-
-- O cumprimento dos requisitos. Um dos pontos mais importantes de uma investida é que ela atinja seus objetivos e portanto soluções que não atendam a todos os requisitos terão nota reduzida.
-- Cumprimento do prazo estipulado. Dizer um prazo para seu projeto mostra confiança nas suas habilidades, cumpri-lo mostra competência, divergencias no prazo reduziram a sua nota.
-- A organização e legibilidade do código. Nós teremos que ler o seu código e quanto mais fácil for nos localizar e ler o seu código mais pontos nós daremos para o seu teste.
-
-## Descrição
-
-### Contexto
-
-Nós precisamos da solução desse simples mas importante teste lógico que segue 4 regras. Crie um algoritmo que solucione as quatro regras da melhor forma possível.
-
-- Crie um algoritmo que conte de 1-100 aonde
-- Multiplos de 15 devem ser substituídos por FizzBuzz
-- Multiplos de 5 devem ser substituídos por Fizz
-- Multiplos de 3 devem ser substituídos por Buzz
+depois disso foi so saber fazer o cálculo que no caso eram os multiplos de cada número, reconhecendo estes cáalculos eu finalizei deixando a ultima descisão(Else) como o print padrão finalizando a lógica em sí de cada etapa para substituição do algarismo em Fizz, Buzz ou FizzBuzz;
